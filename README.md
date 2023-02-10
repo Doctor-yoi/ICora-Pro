@@ -1,2 +1,4 @@
-## Cora Open Source!
-## XFP.Impace_Ultimate.Cora V1.3.10(Now Version)
+## _**This is only for the banner!**_
+
+## real ICoraPro [here](https://github.com/XFP-Studio/ICoraPro)
+private now
